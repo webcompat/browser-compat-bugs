@@ -8,10 +8,16 @@ assignees: ''
 ---
 
 **Describe the issue**
-A clear and concise description of what the issue is. Which web features or APIs are involved and what is the unexpected difference between browsers? Which browser's behavior do you consider correct?
+A clear and concise description of what you're doing, and what you see in different browsers.
 
-**Code**
-Give code illustrating the issue and/or a link to a simple testcase such as codepen, etc. or your own site.
+**Technologies Involved**
+List the technologies involved e.g. CSS Grid, IndexedDB.
+
+**Browsers Tested**
+List browser versions/platforms that you've tested, and whether or not they show the issue.
+
+**Testcase**
+A testcase for the issue. This can also be a link to [CodePen](https://codepen.io/) or similar.
 
 **Screenshots**
 If applicable, add screenshots to help explain the issue.
