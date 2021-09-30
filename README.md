@@ -1,7 +1,8 @@
 # webdev
-Repository for Web Developers to report interop bugs in between browsers.
 
-The goal is to help web developers to report issues with a test case illustrating the issue at stake, so that browser implementers can have a look at it.
+Repository for web developers to report browser compatibility issues.
+
+The goal is to help web developers to report issues with a test case illustrating the issue at hand, so that browser implementers can have a look at it.
 
 ## Webdev vs webcompat.com
 
@@ -11,5 +12,4 @@ This repo is here to collect specific test cases illustrating breakage with test
 
 ## Future
 
-Eventually this repo could be hooked in browser devtools to automatically submit a reduced test case. We are not there yet. Let's start simple.
-
+Eventually this repo could be hooked into browser DevTools to automatically submit a reduced test case. We are not there yet. Let's start simple.
