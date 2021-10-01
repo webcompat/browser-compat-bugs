@@ -8,7 +8,7 @@ The goal is to help web developers to report issues with a test case illustratin
 
 The site [webcompat.com](https://webcompat.com/) collects issues reported by users when they have the feeling the website is broken in one browser but not another. The bugs are collected into [web-bugs](https://github.com/webcompat/web-bugs/issues). 
 
-This repo is here to collect specific test cases illustrating breakage with test cases illustrating the difference in between two or more browsers. The bar for contributing an issue is higher.
+This repo is here to collect specific test cases illustrating the difference between two or more browsers. The bar for contributing an issue is higher.
 
 ## Future
 
